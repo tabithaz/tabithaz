@@ -1,4 +1,4 @@
-Hi, my name is Tabitha Zachariah ✨
+Hi, my name is Tabitha Zachariah!
 
 🎓 I’m a Computer Science and Computer Information Technology student at Purdue University, graduating in May 2027.
 
