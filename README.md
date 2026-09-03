@@ -1,11 +1,17 @@
-Hi, my name is Tabitha Zachariah!
+# Hi, my name is Tabitha Zachariah!
 
-🎓 I’m a Computer Science and Computer Information Technology student at Purdue University, graduating in May 2027.
+I’m a Computer Science and Computer Information Technology student at Purdue University, graduating in May 2027.
 
-💻 I’ve worked as a Software Engineering Intern at The Coding Foundation, where I contributed to full-stack development projects, and as a Data Engineering Intern at UnitedHealthcare, where I built data pipelines, automated workflows, and developed analytics solutions.
+I’ve worked across software engineering, data engineering, and aerospace. Most recently, I interned at The Aerospace Corporation, where I worked on mission assurance projects using Java and C++, along with technologies including AWS, Kubernetes, and DDS. I previously spent two summers at UnitedHealthcare working in data engineering, where I built data pipelines, automated workflows, and developed analytics solutions using Python and SQL.
 
-📊 My work often focuses on the intersection of software, data, and human behavior — from creating intuitive applications to developing data-driven systems that solve real-world problems.
+My work often focuses on the intersection of software, data, and human behavior, from building applications to developing data-driven systems that solve real-world problems.
 
-🛠 My technical skills include Python, SQL, Java, JavaScript, C, C++, React, Django, TensorFlow, Pandas, and NumPy.
+## Technical Skills
 
-📌 I’m currently exploring opportunities across engineering, data, and research.
+**Languages:** Python, Java, SQL, C, C++, JavaScript  
+**Frameworks & Libraries:** React, Django, Pandas, NumPy, TensorFlow, PyTorch, SQLAlchemy  
+**Tools & Technologies:** Git, Linux, Docker, Kubernetes, AWS, Snowflake, Power BI, Tableau
+
+## Currently
+
+I’m graduating in May 2027 and looking for full-time software engineering and data engineering opportunities.
