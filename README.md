@@ -16,8 +16,11 @@ My work often focuses on the intersection of software, data, and human behavior,
 
 I’m graduating in May 2027 and looking for full-time software engineering and data engineering opportunities.
 
+[Portfolio](https://tabithaz.github.io/website/)
+
 ## Selected Projects
 
+- [FirstPay](https://github.com/tabithaz/FirstPay): interactive paycheck, budget, job-offer, and benefits comparisons for new graduates
 - [DevPulse](https://github.com/tabithaz/DevPulse): engineering delivery metrics, GitHub snapshots, and dashboard
 - [TelemetryGuard](https://github.com/tabithaz/TelemetryGuard): C++ telemetry health checks and vehicle disposition
 - [SentinelStream](https://github.com/tabithaz/SentinelStream): telemetry event processing and stream reliability diagnostics
